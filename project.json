@@ -1,6 +1,6 @@
 {
   "name": "Source_Control",
-  "description": "Revised Project after added functionality ",
+  "description": "Test Project Description ",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.12.3]",
